@@ -1,0 +1,10 @@
+{
+  "name": "ssrf-node",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.17.1",
+    "ip": "1.1.8",
+    "morgan": "^1.9.1",
+    "morgan-body": "2.4.5"
+  }
+}
